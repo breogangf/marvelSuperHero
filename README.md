@@ -9,6 +9,9 @@
 ## Developed using Marvel API
 To use the source files, you will need to place your own public & privat API keys @ app/src/main/java/com/fivelabs/marvelsuperhero/app/dependencyinjection/DataSource.java
 
+## Downloads
+[marvelSuperHeroDebug.apk](./apk/marvelSuperHeroDebug.apk)
+
 ## Creator
 Marvel Super Hero was created by and is maintained by **[Breogán González Fernández](https://twitter.com/breogangf)**
 
