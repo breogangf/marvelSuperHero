@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Marvel Super Hero</string>
+  <string name="error">No data available</string>
+  <string name="description_image">Thumbnail</string>
+</resources>

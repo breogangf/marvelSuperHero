@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="V11-portrait"
+    >
+  <include
+      android:id="@+id/toolbar"
+      layout="@layout/toolbar"
+      ></include>
+  <android.support.v4.widget.DrawerLayout
+      android:layout_below="@id/toolbar"
+      android:id="@+id/drawer_layout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      >
+    <RelativeLayout
+        android:tag="V11-portrait"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+      <FrameLayout
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/comics_frame"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          />
+
+    </RelativeLayout>
+  </android.support.v4.widget.DrawerLayout>
+</RelativeLayout>
