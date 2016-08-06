@@ -15,3 +15,11 @@ Marvel Super Hero was created by and is maintained by **[Breogán González Fern
 * [Twitter](https://twitter.com/breogangf)
 * [Github](https://github.com/breogangf)
 * [LinkedIn](https://www.linkedin.com/in/breogangf)
+
+## Screenshots
+
+![Screenshot](./screenshots/1.png)
+
+![Screenshot](./screenshots/2.png)
+
+![Screenshot](./screenshots/3.png)
